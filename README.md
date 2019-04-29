@@ -1,0 +1,1 @@
+# vs2019-Android-native-template-update
